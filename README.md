@@ -10,3 +10,5 @@ Here is the hardware used during this project :
   -1 moisture sensor
   -1 DHT11 sensor
   
+  The moisture sensor has to be calibrated at initialization and the phototransistor having too much noise, I made a filter by displaying a mean value instead of the direct ssensor value.
+  
